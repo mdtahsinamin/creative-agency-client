@@ -1,0 +1,18 @@
+.header-container{
+    position: absolute;
+    width: 1349px;
+    height: 684.53px;
+    left: 0px;
+    top: -8.53px;
+    background: #FBD062;
+    background-size: cover;
+    overflow: hidden;
+}
+.header-container::after{
+    content: " ";
+    position: absolute;
+    bottom:0;
+    width: 100%;
+    background-image: url(../../../images/logos/wave.svg);
+    height: 275px;
+}

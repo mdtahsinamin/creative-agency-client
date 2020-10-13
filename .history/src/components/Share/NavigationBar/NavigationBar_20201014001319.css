@@ -1,0 +1,14 @@
+.agencyLogo{
+    position: absolute;
+    width: 150px;
+    height: 47px;
+}
+.login-btn{
+    position: absolute;
+    width: 134px;
+    height: 45px;
+    left: 1000px;
+    top: 49px;
+    background: #111430;
+    border-radius: 5px;
+}

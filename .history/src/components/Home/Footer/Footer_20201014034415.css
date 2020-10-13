@@ -1,0 +1,25 @@
+.footer-section{
+    background: #FBD062;
+    background-size: cover;
+    overflow: hidden;
+}
+.form-group input{
+    width: 630px;
+    height: 70px;
+    border-radius: 4px;
+}
+.form-group textarea{
+    width: 630px;
+    height: 277px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.footer-title{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 34px;
+    letter-spacing: 0.396px;
+    color: #2D2D2D;
+}

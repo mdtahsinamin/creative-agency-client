@@ -1,0 +1,9 @@
+.header-container{
+    width: 100%;
+    background: #FBD062;
+    background-size: cover;
+    overflow: hidden;
+}
+.svg-icon{
+    margin-top: -50px;
+}

@@ -1,0 +1,21 @@
+.agencyLogo{
+    position: absolute;
+    width: 150px;
+    height: 47px;
+}
+.login-btn{
+    position: relative;
+    width: 134px;
+    height: 45px;
+    left: 0px;
+    top: 49px;
+    background: #111430;
+    border:none;
+    border-radius: 5px;
+    color: #ffffff;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+}

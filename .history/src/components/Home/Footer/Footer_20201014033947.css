@@ -1,0 +1,14 @@
+.footer-section{
+    background: #FBD062;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+}
+.form-group input{
+    width: 630px;
+    height: 70px;
+}
+.form-group textarea{
+    width: 630px;
+    height: 277px;
+}
