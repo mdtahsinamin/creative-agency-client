@@ -1,0 +1,24 @@
+
+.sidebar li{
+    margin-bottom: 10px;
+ }
+
+.sidebar svg{
+    margin-right: 10px;
+}
+
+.icon-links{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+}
+.sidebar{
+    background-color: #ffffff;
+    border-radius:20px;
+    height: 100%;
+}
+
+.icon-links:hover{
+    color: #009444;
+}

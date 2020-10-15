@@ -1,0 +1,42 @@
+
+.sidebar li{
+    margin-bottom: 10px;
+ }
+
+.sidebar svg{
+    margin-right: 10px;
+}
+
+.icon-links{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+.icon-links:hover{
+    color: #009444;
+}
+
+.nav-menu{
+    background-color: #ffffff;
+    width:250px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+
+}
+
+.nav-text{
+    display: flex;
+    justify-content:start;
+    align-items: center;
+    padding:8px 0 8px 16px;
+    height: 35px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #000000;
+    
+}

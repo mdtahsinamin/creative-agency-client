@@ -1,0 +1,28 @@
+
+.sidebar li{
+    margin-bottom: 10px;
+ }
+
+.sidebar svg{
+    margin-right: 10px;
+}
+
+.icon-links{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+.icon-links:hover{
+    color: #009444;
+}
+
+.nav-menu{
+    background-color: #ffffff;
+    width:250px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    
+}

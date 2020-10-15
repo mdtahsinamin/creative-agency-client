@@ -1,0 +1,20 @@
+
+.sidebar span{
+    position: relative;
+    width: 85px;
+    height: 24px;
+    left: 50px;
+    top: 10px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #000000;
+}
+.sidebar li{
+    margin-bottom: 10px;
+ }
+
+.sidebar svg{
+    margin-right: 10px;
+}

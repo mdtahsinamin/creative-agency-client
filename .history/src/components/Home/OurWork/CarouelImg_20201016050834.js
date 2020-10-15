@@ -1,0 +1,17 @@
+import React from 'react';
+
+const CarouelImg = ({carousel}) => {
+     
+    const style ={
+        backgroundImage:`url(${carousel.url})`,
+        border:'none',
+        backgroundRepeat:'no-repeat',
+    }
+    return (
+        <div style={style}>
+            
+        </div>
+    );
+};
+
+export default CarouelImg;

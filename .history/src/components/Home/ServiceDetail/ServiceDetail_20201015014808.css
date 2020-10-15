@@ -1,0 +1,11 @@
+.services:hover{
+    background: #FFFFFF;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);;
+    border-radius: 10px;
+    transition: all .3s ease-in-out;
+    overflow: hidden;
+}
+
+/* transition: all .3s ease-in-out; background: #FFFFFF;
+    box-shadow: 0px 4px 80px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;*/

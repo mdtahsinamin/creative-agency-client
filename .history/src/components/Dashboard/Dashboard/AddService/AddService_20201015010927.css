@@ -1,0 +1,53 @@
+.addServiceLogo{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 410px;
+    top: -40px;
+    margin-top:84px;
+    margin-left:25px;
+}
+.addServiceUpload{
+    position: absolute;
+    width: 99px;
+    height: 19px;
+    left: 437px;
+    top: -36px;
+    margin-top:80px;
+    margin-left: 20px;
+}
+.serviceTitle{
+    width: 350px;
+    height: 40px;
+    background: #FFFFFF;
+    border: 0.666667px solid #C9C9C9;
+    box-sizing: border-box;
+    border-radius: 3.33333px;
+
+}
+.addServiceDescription{
+    width: 350px;
+    height: 121px;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+    border-radius: 3.33333px;
+}
+.addServiceDescription:focus{
+    border: 1px solid #009444;
+}
+.submit-btn{
+    position: absolute;
+    width: 108px;
+    height: 37px;
+    left: 615px;
+    top: 312px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #FFFFFF;
+    background: #009444;
+    border-radius: 5px;
+    border: none;
+}

@@ -1,0 +1,15 @@
+.our-works-container{
+    background: #111430;
+    height: 724px;
+    overflow: hidden;
+}
+
+.slick-dots li.slick-active  {
+    color: #FBD062;
+    height: 15px;
+  }
+.slick-prev:before,
+.slick-next:before {
+    color: #FBD062;;
+  }
+  

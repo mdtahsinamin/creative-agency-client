@@ -1,0 +1,10 @@
+.our-works-container{
+    background: #111430;
+    height: 724px;
+    overflow: hidden;
+}
+.first-img{
+    background-image: url(../../../images/carousel-1.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+}

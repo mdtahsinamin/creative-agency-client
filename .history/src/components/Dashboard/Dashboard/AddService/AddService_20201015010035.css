@@ -1,0 +1,27 @@
+.addServiceLogo{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 269px;
+    top: -40px;
+    margin-top:84px;
+    margin-left:25px;
+}
+.addServiceUpload{
+    position: absolute;
+    width: 99px;
+    height: 19px;
+    left: 470px;
+    top: -36px;
+    margin-top:80px;
+    margin-left: 20px;
+}
+.serviceTitle{
+    width: 350px;
+    height: 40px;
+    background: #FFFFFF;
+    border: 0.666667px solid #C9C9C9;
+    box-sizing: border-box;
+    border-radius: 3.33333px;
+
+}

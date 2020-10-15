@@ -1,0 +1,18 @@
+.addServiceLogo{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 269px;
+    top: 412px;
+    margin-top:84px;
+    margin-left:25px;
+}
+.addServiceUpload{
+    position: absolute;
+    width: 99px;
+    height: 19px;
+    left: 300px;
+    top: 416px;
+    margin-top:80px;
+    margin-left: 20px;
+}

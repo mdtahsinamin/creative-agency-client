@@ -1,0 +1,70 @@
+.order-place{
+     position: relative;
+     left: 60px;
+     top:75px;
+     width: 100vw;
+     height: 120vh;
+     background-color: #EBF9EA;
+     border-radius:5px;
+}
+.order-section input{
+    height: 55px;
+    width: 500px;
+    border: none;
+    border-radius: 4px;
+}
+
+.order-section textarea{
+    width: 500px;
+    height: 112px;
+    border: none;
+    border-radius: 4px;
+}
+
+.servicePrice input{
+    height: 55px;
+    width: 250px;
+    border: none;
+    border-radius: 4px;
+}
+
+input[type='file']{
+    display:none;
+}
+
+label{
+    width: 210px;
+    height: 55px;
+    background: #E5F3FF;
+    border: 1px solid #009444;
+    box-sizing: border-box;
+    border-radius: 5px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: #009444;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    text-align: center;
+}
+.upload{
+    position: relative;
+    width: 99px;
+    height: 19px;
+    right: 30px;
+    top:-25px;
+    margin-top:80px;
+    margin-left: 20px;
+
+}
+.cloudLogo{
+    position: relative;
+    width: 24px;
+    height: 24px;
+    right: 15px;
+    top: -68px;
+    margin-top:84px;
+    margin-left:25px;
+}  

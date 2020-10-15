@@ -1,0 +1,67 @@
+.agency-login{
+    position: absolute;
+    width: 570px;
+    height: 457px;
+    left: 435px;
+    top: 150px;
+    background: #FFFFFF;
+    border: 1px solid #ABABAB;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.login-page{
+    width: 457px;
+    height: 148px;
+    left: 491px;
+    top: 325px;
+   
+}
+.login-with{
+    position: relative;
+    height: 29px;
+    left: 50%;
+    right: 50%;
+    top: 170px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: #000000;
+
+}
+.google{
+    position: absolute;
+    left: 70px;
+    top: 200px;
+    width: 457px;
+    height: 51px;
+    margin: 10px auto;
+    padding: 10px;
+    border: 1px solid #C7C7C7;
+    box-sizing: border-box;
+    border-radius: 57px;
+    text-align: center;
+    cursor: pointer;
+    background: #FFFFFF;
+}
+.google {
+    background: url(../../images/google.png);
+    background-size: 9%;
+    background-position: left 2% center;
+    background-repeat: no-repeat;
+}
+.continue-google{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #000000;
+}
+.account{
+    position: absolute;
+    width: 363px;
+    height: 21px;
+    left: 150px;
+    top: 280px;
+}

@@ -1,0 +1,14 @@
+.extraAppBar{
+    position: absolute;
+    width: 150px;
+    height: 47px;
+    left: 645px;
+    top: 81px;
+}
+.sideBarLogo{
+    position: relative;
+    height: 47px;
+    top:30px;
+    left: 38px;
+    margin-bottom: 40px;
+}

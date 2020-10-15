@@ -1,0 +1,15 @@
+.our-works-container{
+    background: #111430;
+    height: 724px;
+    overflow: hidden;
+}
+.carousel-img{
+    position: relative;
+    margin-right: 1500px;
+    width: 480.75px;
+    height: 360.56px;
+    background: url(../../../images/carousel-1.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+} 
+  

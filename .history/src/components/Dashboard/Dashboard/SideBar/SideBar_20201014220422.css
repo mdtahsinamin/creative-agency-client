@@ -1,0 +1,17 @@
+
+.sidebar li{
+    margin-bottom: 10px;
+ }
+
+.sidebar svg{
+    margin-right: 10px;
+}
+.icon-links:hover{
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #009444;
+    
+}

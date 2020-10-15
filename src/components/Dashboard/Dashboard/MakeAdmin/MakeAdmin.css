@@ -1,0 +1,29 @@
+.makeAdminInput input{
+    width: 450px;
+    height: 40px;
+    background: #FFFFFF;
+    border: 0.666667px solid #C9C9C9;
+    box-sizing: border-box;
+    border-radius: 3.33333px;
+}
+.make-admin-btn{
+    position: relative;
+    width: 108px;
+    height: 40px;
+    top:34px;
+    background: #009444;
+    border:none;
+    border-radius: 5px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+.error-show{
+    color: #bf1650;
+}
+.error-show::before {
+   display: inline;
+   content: "⚠ ";
+}  
