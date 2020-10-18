@@ -1,0 +1,24 @@
+/*.card{
+    height: 212px;
+    width:550px;
+    overflow:'hidden';
+}*/
+
+.feedback:hover{
+    background: #FFFFFF;
+    border: 1px solid #BFBFBF;
+    box-shadow: 2px 2px 80px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    transition: all .3s ease-in-out;
+    overflow: hidden;
+}
+
+.user-information{
+     position: relative;
+     left:15px;
+}
+.user-img{
+     position: relative;
+     right:-20px;
+     top:-15px;
+}

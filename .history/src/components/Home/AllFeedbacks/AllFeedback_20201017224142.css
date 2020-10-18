@@ -1,0 +1,17 @@
+/*.card{
+    height: 212px;
+    width:550px;
+    overflow:'hidden';
+}*/
+
+.feedback{
+    border-radius: 1px solid grey;
+}
+
+.feedback:hover{
+    background: #FFFFFF;
+    box-shadow: 2px 2px 80px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    transition: all .3s ease-in-out;
+    overflow: hidden;
+}

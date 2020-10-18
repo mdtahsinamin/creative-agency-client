@@ -1,0 +1,45 @@
+.done-label label{
+    width: 108px;
+    height: 40px;
+    background: #C6FFE0;
+    border:'none';
+    box-sizing: border-box;
+    border-radius: 5px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: #009444;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    text-align: center;
+}
+
+.pending-label label{
+    width: 108px;
+    height: 40px;
+    right: 30px;
+    background: #FFE3E3;
+    border:'none';
+    box-sizing: border-box;
+    border-radius: 5px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: #FF4545;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    text-align: center;
+}
+
+.empty-file{
+     display: none;
+}
+
+.status-title{
+     position: relative;
+     top:5px;
+}
