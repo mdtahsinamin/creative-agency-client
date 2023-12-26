@@ -31,7 +31,7 @@ const AddService = () => {
         formData.append('file',file);
         
 
-        fetch('https://whispering-eyrie-37325.herokuapp.com/createNewService',{
+        fetch('https://creative-agency-server-2ogx.vercel.app/createNewService',{
             method: 'POST',
             body:formData
         })
